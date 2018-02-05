@@ -1,0 +1,6 @@
+/homes/jh4715/assessed_coursework/cgcoursework2016/CMakeFiles/cgExercise01.dir
+/homes/jh4715/assessed_coursework/cgcoursework2016/CMakeFiles/cgExercise02.dir
+/homes/jh4715/assessed_coursework/cgcoursework2016/CMakeFiles/cgExercise03.dir
+/homes/jh4715/assessed_coursework/cgcoursework2016/CMakeFiles/cgExercise04a.dir
+/homes/jh4715/assessed_coursework/cgcoursework2016/CMakeFiles/cgExercise04b.dir
+/homes/jh4715/assessed_coursework/cgcoursework2016/CMakeFiles/cgExercise05.dir
